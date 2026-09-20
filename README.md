@@ -71,6 +71,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-90&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6D00&text_color=FFFFFF&langs_count=8" height="170" alt="Top Languages"/>
   </p>
 
+  <p>
+    <a href="https://leetcode.com/u/omkar_ghodake_/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/omkar_ghodake_?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="250"/>
+    </a>
+  </p>
+
 </div>
 
 <div align="center">
